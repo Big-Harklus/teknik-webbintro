@@ -14,3 +14,5 @@ chilli kön kärne med bacon
 * Skrev denna fil
 * Lärde mig några commandon till git bash
 * pizza pizza woooooH!
+
+* ahhhhh
