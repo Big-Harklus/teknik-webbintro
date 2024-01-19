@@ -12,6 +12,15 @@ main{
     padding: 2rem;
 }
 
-img{
-    max-width: 50%;
+img
+{
+    max-width: 100%;
+}
+
+.navigation
+{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 1rem;
 }
