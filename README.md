@@ -16,3 +16,8 @@ chilli kön kärne med bacon
 * pizza pizza woooooH!
 
 * ahhhhh
+
+## Lektion 2, webbintro 19/1
+
+* Satte in länkar
+* tillsatte till episk musik
